@@ -1,13 +1,18 @@
 body{
-    margin-left: 20px;
+    margin-left: 40px;
+    
 }
-
+.new-btn{
+    color: white;
+    background-color: hsl(120, 100%, 7%);
+}
 .chat{
     background-color: aliceblue;
     padding: 20px;
     margin-bottom:  10px;
     border-radius: 16px;
     display: inline-block;
+    margin-left: 30%;
 }
 
 .msg{
@@ -26,4 +31,8 @@ body{
     border-radius: 16%;
     background-color: red;
     color: white;
+}
+
+.btn{
+    display: flex;
 }
