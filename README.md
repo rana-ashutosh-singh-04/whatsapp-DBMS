@@ -31,8 +31,7 @@ Whether you're learning backend development or just need a boilerplate for an Ex
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/ChatApp.git
-cd ChatApp
+git clone https://github.com/rana-ashutosh-singh-04/whatsapp-DBMS.git
 
 # Install dependencies
 npm install
