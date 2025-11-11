@@ -143,7 +143,7 @@ app.use((err,req,res,next)=>{
 
 
 // Root directory
-app.get("/",(req,res)=>{
+app.get("/chats",(req,res)=>{
   res.send("root is working")
 })
 

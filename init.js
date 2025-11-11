@@ -13,21 +13,21 @@ async function main() {
 
 let allchats = ([
     {
-        from:"neha",
-        to:"priya",
-        msg:"send me your exam sheets",
+        from:"Ashutosh",
+        to:"Aman",
+        msg:"school ja school",
         created_at: new Date(),
     },
      {
-        from:"priya",
-        to:"supriya",
-        msg:"send me your exam sheets",
+        from:"sahil",
+        to:"Aman ",
+        msg:"randwa kahi ka ! ",
         created_at: new Date(),
     },
      {
-        from:"neha",
-        to:"niranjan",
-        msg:"send me your exam sheets",
+        from:"Aman",
+        to:"Aryan",
+        msg:"bhabhi se kab milaoge ? ",
         created_at: new Date(),
     },
 ])
